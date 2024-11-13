@@ -6,7 +6,7 @@
 /*   By: laugusto <laugusto@student.42.rio>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/10 21:04:42 by laugusto          #+#    #+#             */
-/*   Updated: 2024/11/10 21:31:06 by laugusto         ###   ########.fr       */
+/*   Updated: 2024/11/11 10:48:20 by laugusto         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ ssize_t	ft_putchar(char c)
 	return (write(1, &c, 1));
 }
 
-ssize_t ft_putstr(char *str)
+ssize_t	ft_putstr(char *str)
 {
 	ssize_t	i;
 
