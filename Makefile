@@ -6,7 +6,7 @@
 #    By: laugusto <laugusto@student.42.rio>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/11/10 13:27:01 by laugusto          #+#    #+#              #
-#    Updated: 2024/11/10 21:11:24 by laugusto         ###   ########.fr        #
+#    Updated: 2024/11/13 00:16:12 by laugusto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,6 +14,7 @@ NAME = 	libftprintf.a
 
 SRC = 	ft_printf.c \
 		ft_str.c \
+		ft_printhex.c \
 
 OBJ = $(SRC:.c=.o)
 
