@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/psydenst/ft_printf?color=lightblue" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/imafancydev/ft_printf?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/imafancydev/ft_printf?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/imafancydev/ft_printf?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/imafancydev/ft_printf?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/imafancydev/ft_printf?color=green" />
 </p>
 
 <h3 align="center">
@@ -35,3 +39,25 @@
 The function is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
 
 ### Instructions
+
+**1. Compiling the library**
+
+To compile, go to the library path and run:
+
+```shell
+$ make
+```
+
+**2. Using it in your code**
+
+To use the library functions in your code, simply include its header:
+
+```C
+#include "ft_printf.h"
+```
+
+## 📋 Testing
+
+You can use this third party tester to fully test the project:
+
+* [Tripouille/printfTester](https://github.com/Tripouille/printfTester)
