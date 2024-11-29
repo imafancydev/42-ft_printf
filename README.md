@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/imafancydev/ft_printf?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/imafancydev/ft_printf?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/imafancydev/ft_printf?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/imafancydev/ft_printf?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/imafancydev/ft_printf?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/imafancydev/42-ft_printf?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/imafancydev/42-ft_printf?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/imafancydev/42-ft_printf?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/imafancydev/42-ft_printf?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/imafancydev/42-ft_printf?color=green" />
 </p>
 
 <h3 align="center">
