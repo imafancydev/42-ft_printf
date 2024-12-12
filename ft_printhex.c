@@ -6,7 +6,7 @@
 /*   By: laugusto <laugusto@student.42.rio>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/12 23:01:06 by laugusto          #+#    #+#             */
-/*   Updated: 2024/12/10 15:05:48 by laugusto         ###   ########.fr       */
+/*   Updated: 2024/12/12 13:59:42 by laugusto         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -88,7 +88,6 @@ ssize_t	ft_putptr(void *ptr)
 		length += 5;
 		return (length);
 	}
-	length = 0;
 	length += ft_putstr("0x");
 	length += ft_puthex((unsigned long long)ptr, 'x');
 	return (length);
